@@ -1,2102 +1,700 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1729800050939 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1729801731250 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800054020 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800057093 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800060148 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800063314 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800066418 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800069506 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800072580 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800075673 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800078742 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800081812 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800084880 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800087941 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800090998 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800094061 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800097144 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800100222 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800103278 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800106340 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800109397 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800112468 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800115526 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800118591 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800121677 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800124751 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800127823 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800130908 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800133970 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800137063 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800140125 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800143204 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800146281 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800149356 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800152460 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800155517 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800158575 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800161653 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800164715 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800167779 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800170837 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800173911 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800176968 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800180040 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800183265 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800186357 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800189426 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800192487 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800195555 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800198714 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800201784 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800204847 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800207957 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800211024 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800214102 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800217166 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800220222 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800223280 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800226335 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800229396 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800232446 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800235510 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800238575 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800241633 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800244691 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800247748 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800250829 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800253894 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800257027 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800260093 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800263164 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800266226 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800269286 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800272345 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800275405 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800278468 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800281556 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800284635 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800287715 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800290838 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800293926 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800296987 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800300048 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800303105 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800306167 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800309239 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800312309 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800315366 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800318461 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800321535 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800324596 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800327660 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800330719 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800333776 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800336830 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800339882 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800343069 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800346198 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800349264 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800352331 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800355418 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800358484 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800361538 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800364593 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800367662 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800370714 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800373782 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800376841 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800379898 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800382957 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800386023 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800389335 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800392390 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800395460 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800398640 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800401705 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800404768 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800407827 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800410891 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800413957 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800417024 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800420096 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800423158 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800426216 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800429321 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800432382 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800435446 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800438505 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800441567 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800444633 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800447769 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800450840 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800453899 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800456977 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800460046 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800463156 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800466219 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800469279 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800472338 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800475410 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800478476 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800481553 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800484629 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800487717 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800490793 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800493858 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800496922 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800500005 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800503075 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800506145 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800509209 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800512274 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800515345 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800518438 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800521520 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800524581 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800527638 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800530695 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800533762 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800536838 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800539902 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800542970 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800546036 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800549112 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800552192 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800555261 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800558325 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800561386 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800564459 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800567523 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800570587 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800573669 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800576744 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800579816 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800582875 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800585960 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800589035 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800592092 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800595168 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800598226 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800601293 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800604410 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800607474 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800610542 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800613603 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800616666 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800619734 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800622801 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800625859 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800628920 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800631977 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800635042 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800638109 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800641194 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800644258 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800647324 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800650391 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800653475 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800656706 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800659765 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800662835 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800665898 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800668957 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800672018 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800675074 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800678326 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800681390 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800684467 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800687543 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800690607 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800693663 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800696722 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800699791 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800702850 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800705998 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800709055 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800712114 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800715225 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800718364 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800721428 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800724496 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800727583 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800730648 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800733759 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800736826 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800739890 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800742952 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800746014 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800749121 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800752221 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800755281 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800758344 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800761398 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800764473 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800767533 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800770589 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800773652 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tunnel pending: https://playit.gg/account/tunnels/de00b043-f182-49e5-a9d1-80ebe5bdacd8
-[2J8[0mplayit (v0.15.26): 1729800776718 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tunnel pending: https://playit.gg/account/tunnels/de00b043-f182-49e5-a9d1-80ebe5bdacd8
-[2J8[0mplayit (v0.15.26): 1729800779780 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tunnel pending (disabled): https://playit.gg/account/tunnels/de00b043-f182-49e5-a9d1-80ebe5bdacd8
-[2J8[0mplayit (v0.15.26): 1729800782851 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tunnel pending (disabled): https://playit.gg/account/tunnels/de00b043-f182-49e5-a9d1-80ebe5bdacd8
-[2J8[0mplayit (v0.15.26): 1729800785912 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tunnel pending (disabled): https://playit.gg/account/tunnels/de00b043-f182-49e5-a9d1-80ebe5bdacd8
-[2J8[0mplayit (v0.15.26): 1729800789016 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tunnel pending (disabled): https://playit.gg/account/tunnels/de00b043-f182-49e5-a9d1-80ebe5bdacd8
-[2J8[0mplayit (v0.15.26): 1729800792069 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tunnel pending (disabled): https://playit.gg/account/tunnels/de00b043-f182-49e5-a9d1-80ebe5bdacd8
-[2J8[0mplayit (v0.15.26): 1729800795123 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tunnel pending (disabled): https://playit.gg/account/tunnels/de00b043-f182-49e5-a9d1-80ebe5bdacd8
-[2J8[0mplayit (v0.15.26): 1729800798292 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800801383 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801734327 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800804446 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801737388 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800807503 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801740447 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800810573 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801743520 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800813642 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801746579 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800816709 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801749676 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800819770 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801752749 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800822836 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801755812 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800825894 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801758873 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800828948 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801762044 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800832012 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801765107 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800835074 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801768176 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800838134 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801771244 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800841208 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801774304 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800844278 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801777364 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800847384 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801780438 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800850453 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801783499 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800853520 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801786567 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800856586 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801789624 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800859641 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801792683 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800862696 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801795750 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800865761 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801798817 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800868830 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801801904 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800871902 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801804966 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800874958 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801808032 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800878019 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801811086 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800881077 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801814147 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800884162 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801817206 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800887227 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801820262 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800890292 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801823316 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800893396 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801826369 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800896456 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801829449 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800899516 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801832503 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800902588 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801835562 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800905660 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801838625 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800908748 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801841690 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800912001 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801844766 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800915066 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801847830 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800918141 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801850883 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800921210 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801853944 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800924275 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801857008 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800927356 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801860074 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800930418 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801863139 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800933555 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801866199 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800936612 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801869257 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800939672 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801872333 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800942735 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801875402 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800945796 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801878462 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800948852 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801881530 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800951907 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801884584 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800954976 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801887659 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800958035 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801890722 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800961096 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801893780 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800964175 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801896833 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800967234 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801899915 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800970293 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801902983 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800973352 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801906064 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800976427 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801909131 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800979486 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801912197 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800982558 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801915269 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800985627 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801918336 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800988690 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801921407 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800991762 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801924483 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800994821 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801927549 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729800997902 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801930605 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729801000970 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801933663 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729801004024 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801936735 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729801007160 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801939805 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729801010233 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801942879 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729801013308 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801945943 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729801016372 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801949002 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729801019432 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801952070 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729801022500 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801955323 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729801025580 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801958385 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729801028637 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801961446 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729801031698 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801964505 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729801034781 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801967566 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729801037840 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801970620 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729801040903 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801973691 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729801043977 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801976748 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729801047035 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801979809 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729801050098 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801982867 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729801053208 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801985922 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729801056268 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801988977 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729801059326 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801992042 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729801062391 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801995098 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729801065453 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729801998159 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729801068523 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729802001222 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729801071593 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729802004287 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729801074684 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729802007418 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729801077747 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729802010485 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729801080810 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729802013551 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729801083902 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729802016622 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729801086966 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729802019687 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729801090043 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729802022780 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729801093123 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729802025837 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729801096206 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729802028899 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729801099268 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729802032071 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729801102338 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729802035135 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729801105422 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729802038198 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729801108493 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729802041253 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729801111557 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729802044325 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729801114711 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729802047379 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729801117784 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729802050437 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729801120928 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729802053493 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729801123992 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729802056554 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729801127078 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729802059618 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729801130191 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729802062687 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729801133265 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729802065745 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729801136358 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729802068802 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729801139427 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729802071861 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729801142497 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729802074990 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729801145575 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729802078044 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729801148662 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729802081107 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729801151725 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729802084160 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729801154788 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729802087214 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729801157856 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729802090268 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729801160967 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729802093337 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729801164038 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729802096396 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729801167101 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729802099451 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729801170164 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729802102507 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729801173231 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729802105595 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729801176299 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729802108651 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729801179370 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729802111717 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729801182442 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729802114798 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729801185510 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729802117860 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729801188587 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729802120918 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729801191701 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729802123975 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729801194767 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729802127035 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729801197835 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729802130091 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729801200896 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729802133158 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729801203955 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729802136238 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729801207036 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729802139306 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729801210124 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729802142388 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729801213184 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729802145464 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729801216280 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729802148528 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729801219359 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729802151590 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729801222437 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (disabled)
-[2J8[0mplayit (v0.15.26): 1729801225509 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (disabled)
-[2J8[0mplayit (v0.15.26): 1729801228586 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729802154652 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (disabled)
-[2J8[0mplayit (v0.15.26): 1729801231658 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (disabled)
-[2J8[0mplayit (v0.15.26): 1729801234762 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (disabled)
-[2J8[0mplayit (v0.15.26): 1729801237822 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-legal-lands.gl.joinmc.link => 127.0.0.1:25565 (disabled)
-inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (disabled)
-[2J8[0mplayit (v0.15.26): 1729801240890 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (disabled)
-[2J8[0mplayit (v0.15.26): 1729801243962 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (disabled)
-[2J8[0mplayit (v0.15.26): 1729801247033 tunnel running, 0 tunnels registered
+inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729802157723 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/dabdbb32-5a9a-4dba-ace8-0c152e527b12
+inside-theorem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)

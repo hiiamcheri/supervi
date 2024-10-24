@@ -9,28 +9,28 @@
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "legal-lands.gl.joinmc.link",
-          "assigned_srv": "legal-lands.gl.joinmc.link",
+          "assigned_domain": "inside-theorem.gl.joinmc.link",
+          "assigned_srv": "inside-theorem.gl.joinmc.link",
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "d76c6eac-38ab-498b-9925-a920a25c8be6",
+          "id": "9e41af1f-ca13-4354-9155-f47837f2e09e",
           "ip_hostname": "23.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 9682,
-          "port_start": 9681,
+          "port_end": 32250,
+          "port_start": 32249,
           "region": "global",
           "static_ip4": "147.185.221.23",
           "tunnel_ip": "2602:fbaf:0:1::17"
         },
         "status": "allocated"
       },
-      "created_at": "2024-10-23T18:29:18.489085Z",
+      "created_at": "2024-10-24T20:22:41.839963Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "472ec2d4-176a-4e1d-9f15-3c45abcc64f9",
+      "id": "6a8639dc-10e7-4441-bf05-078cec164e02",
       "name": "Minecraft Java",
       "origin": {
         "data": {
